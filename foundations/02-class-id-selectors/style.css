@@ -1,0 +1,28 @@
+/* 
+a light red/pink background, and a list of fonts containing 
+`Verdana` and `DejaVu Sans` with `sans-serif` as a fallback
+*/
+
+.odd {
+    background-color: rgb(250, 200, 222);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+
+}
+
+#secondelem {
+    font-size: 36px;
+    color: rgb(0,0,255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.thirdelem {
+    font-size: 24px;
+    color: rgb(0,0,255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#fourthelem {
+    font-size: 24px;
+    font-style: bold;
+    background-color: rgb(174, 246, 209);
+}
